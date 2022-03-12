@@ -1,19 +1,7 @@
 # password-generator
 
+[password-generator deployed link](https://foglea10.github.io/password-generator/)
 
-html defaul to kebab case
-hello-im-in-kebab-case
+![screen shot](./Screen%20Shot%202022-03-12%20at%2011.06.56%20AM.png)
 
-JS default to camel case
-camelCaseIsCool
-
-snake case
-snake_case_is_like_this
-
-Window Pop Ups
-- Alert - notifies user
-- Prompt - user inputs info
-- Confirm - true false
-
-
-This is a test 
+This is my password generator. I created this website to help others create a secure and creative password. I used JavaScript to create this password generator, enjoy!!!
